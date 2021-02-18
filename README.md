@@ -59,7 +59,7 @@ To find the encoded phrase you need to traverse the tree left to right for
 each level starting from the root.  
 The node's `value` is index of a character from the `key`.
 
-![Example of the tree traversion](docs/images/traverse_example.png)
+![Example of the tree traversion](docs/images/traverse_example_2.png)
 
 Your result should look something like this:
 
